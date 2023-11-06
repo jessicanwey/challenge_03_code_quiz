@@ -11,3 +11,5 @@ Once all of the questions have been answered, the user is presented with their s
 Currently, the timer running out, does display an alert, but does not stop the user from playing.
 Also, the functionality to be able to save your initials and read the high scores is not working yet.
 These two items need to be completed in the future for to complete the functionality required.
+
+![challenge_03_quiz_screenshot](https://github.com/jessicanwey/challenge_03_code_quiz/assets/145372607/657721b3-beb8-4cff-aa14-c8b5419f707a)
